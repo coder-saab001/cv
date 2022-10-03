@@ -3,14 +3,14 @@ body {
     text-align: center;
     font-family: 'Merriweather', serif;
     font-size: 20px;
-    color: #40514E;
+    color: #40524E;
 }
 
 h1 {
     font-size: 5.625rem;
     margin: 50px auto 0;
     font-family: 'Sacramento', cursive;
-    color:  #66BFBF;
+    color:  #66BFBE;
 }
 
 h2 {
@@ -29,13 +29,13 @@ hr{
     border-style: dotted none none;
     width: 4%;
     border-width: 7px;
-    border-color: #DAE5E5;
+    border-color: #DBE5E5;
 }
 
 .top-container {
     background-color: #e4f9f5;
     position: relative;
-    padding-top: 100px;
+    padding-top: 102px;
     /* margin-bottom: 50px; */
 }
 
